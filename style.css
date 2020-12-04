@@ -11,8 +11,8 @@
 .container {
     font-family: arial;
     margin: auto;
-    width: 1000px;
-    max-width: 80%;
+    width: 1200px;
+    max-width: 90%;
 }
 .main-section {
     display: flex;
